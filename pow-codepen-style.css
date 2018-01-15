@@ -1,0 +1,28 @@
+* {
+  font-family:arial;
+}
+
+#main-table{
+  margin:auto;
+}
+
+#intro {
+  font-size:20px;
+}
+
+.icon-sections {
+ /* margin-top:-20px; */
+}
+
+#header{
+  position:relative;
+}
+
+#outro{
+  color:#788767;
+  margin-left:35px;
+}
+
+td{vertical-align:top}
+table{border-collapse:collapse}
+img{display:block}
